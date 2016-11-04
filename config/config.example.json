@@ -1,1 +1,14 @@
-{}
+{
+	"geocoding": [
+		{
+			"service": "google",
+			"api_key": ""
+		},
+		{
+			"service": "osm",
+			"api_key": "",
+			"host": "http://",
+			"query_parameter": "address"
+		}
+	]
+}
